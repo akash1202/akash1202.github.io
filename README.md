@@ -13,7 +13,7 @@ Android:
 
 Flutter:
 
-[Shopping Cart] (https://github.com/akash1202/shoppingcart)
+[Shopping Cart](https://github.com/akash1202/shoppingcart)
 
 Python:
 
