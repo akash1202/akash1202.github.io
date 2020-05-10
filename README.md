@@ -17,6 +17,6 @@ Flutter:
 
 Python:
 
-[Marketing with Mass Emailing](https://akash1202.github.io/send_mass_email)
+[Marketing with Mass Emailing](https://github.com/akash1202/send_mass_email)
 
 [Tic-Tac-Toe with Image processing](https://github.com/akash1202/Tic-Tac-Toe-using-image-processing)
