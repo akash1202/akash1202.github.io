@@ -7,9 +7,9 @@ Student at Cegep college,Montreal
 # My Projects
 Android:
 
-[Safe and Smart Highway System](https://akash.github.io/safe-and-smart-highway)
+[Safe and Smart Highway System](https://github.com/akash1202/safe-and-smart-highway)
 
-[My Music Player](https://akash1202.github.io/MyMusicplayer)
+[My Music Player](https://github.com/akash1202/MyMusicplayer)
 
 Flutter:
 
