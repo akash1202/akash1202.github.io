@@ -18,7 +18,7 @@ Spring Boot:
 * [REST API hosted on GCP](https://github.com/akash1202/RestGCP)
 
 JavaScript(ExpressJS):
-* HouseStore(https://github.com/akash1202/HouseStore)
+* [HouseStore](https://github.com/akash1202/HouseStore)
 
 
 Flutter:
